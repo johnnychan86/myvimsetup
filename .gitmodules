@@ -1,0 +1,24 @@
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = https://github.com/msanders/snipmate.vim.git
+[submodule "bundle/git"]
+	path = bundle/git
+	url = https://github.com/tpope/vim-git.git
+[submodule "bundle/pep8"]
+	path = bundle/pep8
+	url = https://github.com/vim-scripts/pep8.git
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/vim-scripts/The-NERD-tree.git
+[submodule "pyflakes-pathogen"]
+	path = pyflakes-pathogen
+	url = https://github.com/mitechie/pyflakes-pathogen.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "bundle/pydoc"]
+	path = bundle/pydoc
+	url = https://github.com/fs111/pydoc.vim.git
